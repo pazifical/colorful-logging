@@ -11,4 +11,5 @@ func main() {
 	logger.Info("This is an info log")
 	logger.Warning("This is a warning log")
 	logger.Error("This is an error log")
+
 }
